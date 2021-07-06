@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Users\\MIKOLKA\\Library_DZ\\MeetMe_DZ.csproj": {}
+    "d:\\Users\\MIKOLKA\\MeetMe_DZ\\MeetMe_DZ.csproj": {}
   },
   "projects": {
-    "d:\\Users\\MIKOLKA\\Library_DZ\\MeetMe_DZ.csproj": {
+    "d:\\Users\\MIKOLKA\\MeetMe_DZ\\MeetMe_DZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Users\\MIKOLKA\\Library_DZ\\MeetMe_DZ.csproj",
+        "projectUniqueName": "d:\\Users\\MIKOLKA\\MeetMe_DZ\\MeetMe_DZ.csproj",
         "projectName": "MeetMe_DZ",
-        "projectPath": "d:\\Users\\MIKOLKA\\Library_DZ\\MeetMe_DZ.csproj",
+        "projectPath": "d:\\Users\\MIKOLKA\\MeetMe_DZ\\MeetMe_DZ.csproj",
         "packagesPath": "C:\\Users\\MIKOLKA\\.nuget\\packages\\",
-        "outputPath": "d:\\Users\\MIKOLKA\\Library_DZ\\obj\\",
+        "outputPath": "d:\\Users\\MIKOLKA\\MeetMe_DZ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MIKOLKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
